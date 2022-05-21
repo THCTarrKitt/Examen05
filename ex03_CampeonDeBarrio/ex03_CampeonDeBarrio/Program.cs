@@ -62,7 +62,7 @@ namespace ex03_CampeonDeBarrio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("*** Campeóncito guapo *** \n\n");
+            Console.WriteLine("*** Campeón del Barrio *** \n\n");
 
             Console.WriteLine("Se registrarán la cantidad de campañas y puntos totales para 5 jugadores");
             Console.WriteLine("El campeón será quien tenga mejor promedio de puntos por campaña");
