@@ -60,6 +60,7 @@ namespace ex03_CampeonDeBarrio
     {
         static void Main(string[] args)
         {
+          int adios = 1;
             Console.WriteLine("*** Campeón del Barrio *** \n\n");
 
             Console.WriteLine("Se registrarán la cantidad de campañas y puntos totales para 5 jugadores");
