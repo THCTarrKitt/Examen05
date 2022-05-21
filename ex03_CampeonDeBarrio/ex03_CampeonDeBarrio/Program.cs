@@ -57,8 +57,6 @@ using System;
 namespace ex03_CampeonDeBarrio
 {
     public class Program
-      
-      int a = 0
     {
         static void Main(string[] args)
         {
