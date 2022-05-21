@@ -57,9 +57,9 @@ using System;
 namespace ex03_CampeonDeBarrio
 {
     public class Program
-    {
       
-      int a = 1;
+      int a = 0
+    {
         static void Main(string[] args)
         {
             Console.WriteLine("*** Campeón del Barrio *** \n\n");
